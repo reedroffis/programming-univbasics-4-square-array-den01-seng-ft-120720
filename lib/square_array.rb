@@ -1,3 +1,5 @@
+require "pry"
+numbers = [1, 2, 3]
 def square_array(array)
-  # your code here
+  count = 0 
 end
